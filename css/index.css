@@ -101,6 +101,15 @@ body {
     color: var(--very-dark-cyan);
 }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
 @media (max-width: 768px) {
     .main {
         display: flex;
